@@ -1,0 +1,18 @@
+{
+  "name": "tasbeh",
+  "displayName": "tasbeh",
+  "expo": {
+    "name": "tasbeh",
+    "icon": "./android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "version": "1.0.0",
+    "slug": "expo.io/@modygalal/tasbeh",
+    "ios": {
+      "bundleIdentifier": "com.tasbeh.tasbeh",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.tasbeh.tasbeh",
+      "versionCode": 1
+    }
+  }
+}
